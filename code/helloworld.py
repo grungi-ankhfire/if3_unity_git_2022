@@ -1,4 +1,4 @@
 # Hello world program
 print("-------------")
-print("Hello, world!")
+print("Hello, kitty!")
 print("-------------")
